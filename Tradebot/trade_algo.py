@@ -7,9 +7,6 @@ Then, a generator is created and a filter returns the valid range for "acceptabl
 Lynix then searches through the possible combinations and returns the first trade that fits in the user settings
 
 Credits: Jartan, Nyko ofc, special people on StackOverflow
-</3 ninrado (aka nina)
-
-Hello script kidies I see you have found me!
 """
 
 
